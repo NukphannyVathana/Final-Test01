@@ -1,0 +1,1 @@
+var e=`/Final-Test01/images/ChefYeak.jpg`,t=`/Final-Test01/images/img-amok-float.png`,n=`/Final-Test01/images/img-dessert-float.png`;export{t as n,e as r,n as t};
